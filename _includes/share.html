@@ -1,11 +1,18 @@
 
 
-<!--<script async src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
-<script async src="//yastatic.net/share2/share.js"></script>
-<div class="ya-share2" data-services="vkontakte,facebook,odnoklassniki,twitter,viber,whatsapp,skype,telegram"></div>-->
 
 
-<link rel="stylesheet" href="https://unpkg.com/social-likes-next/dist/social-likes_birman.css">
+
+ 
+
+<style amp-custom>
+  {% capture include_to_scssify %}
+    {% include likes.css %}
+  {% endcapture %}
+  {{ include_to_scssify | scssify }}
+  </style>
+
+
 <div class="section">
  <div class="social-likes"> 
   <div data-service="twitter" title="Twitter">твитнуть</div>  
