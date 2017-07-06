@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /404
+sitemap: http://www.psycareer.ru/sitemap.xml
+Host: www.psycareer.ru
