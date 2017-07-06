@@ -1,0 +1,65 @@
+---
+layout: default-index
+title: Все для развития психолога
+
+---
+
+<main class="content" role="main">
+
+<section class="post-content">
+<header class="blog-header">
+  <h1 class="blog-title">Все для развития психолога</h1>
+   <h3 class="blog-description">Здесь вы&nbsp;узнаeте, как продвигать психологические услуги и&nbsp;стать востребованным психологом, как находить клиентов и&nbsp;зарабатывать частными консультациями</h2>
+  </header>
+  </section>
+
+         
+   {% include share.html %}
+   
+          
+   
+<p>&nbsp;</p>
+
+<article class="post">
+<section class="post-content">
+
+<b class="blog-description">РУБРИКИ САЙТА:</b><br />
+
+
+<div class="container">
+{% for tag in site.tags %}
+  {% assign t = tag | first %}
+  {% assign posts = tag | last %}
+
+<p class="tag-key" id="{{ t | downcase }}">{{ t | downcase }}</p>
+
+{% for post in posts %}
+  {% if post.tags contains t %}
+    • <a class="post-index-item" href="{{ post.url }}">
+     
+    <span class="article">{{ post.title }}</span><br />
+    </a>
+  {% endif %}
+{% endfor %}
+
+{% endfor %}
+</div>
+
+
+
+      
+
+
+</section>
+</article>
+
+<article class="post">
+<section class="post-content">
+
+<p><b>Написать автору →</b> <a href="mailto:Dmitry.Bartoshevich@psycareer.ru"> Dmitry.Bartoshevich@psycareer.ru</a></p>
+</section>
+</article> 
+</main>
+
+{% include footer.html %}
+  

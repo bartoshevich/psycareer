@@ -1,0 +1,71 @@
+<amp-analytics type="googleanalytics" id="amp-analytics">
+<script type="application/json">
+{
+  "vars": {
+    "account": "{{ site.analytics_id }}"
+  },
+  "triggers": {
+    "trackPageview": {
+      "on": "visible",
+      "request": "pageview"
+    }
+  }
+}
+</script>
+
+</amp-analytics>
+
+
+<amp-analytics type="metrika">
+            <script type="application/json">
+                {
+                    // Отправка параметров визита и посетителя
+                    "vars": {
+                        "counterId": "11575327",
+                        "yaParams": "{\"key\":\"value\",\"__ymu\":{\"user_param_key\":\"user_param_value\"}}"
+                    },
+                    // Передача триггеров
+                    "triggers": {
+                        // Точный показатель отказов
+                        "notBounce": {
+                            "on": "timer",
+                            "timerSpec": {
+                                "immediate": false,
+                                "interval": 15,
+                                "maxTimerLength": 16
+                            },
+                            "request": "notBounce"
+                        },
+                        // Скроллинг страницы
+                        "halfScroll": {
+                            "on": "scroll",
+                            "scrollSpec": {
+                                "verticalBoundaries": [
+                                    50
+                                ]
+                            },
+                            // Отслеживание скроллинга как цели
+                            "request": "reachGoal",
+                            "vars": {
+                                "goalId": "halfScrollGoal"
+                            }
+                        },
+                        // Скроллинг страницы
+                        "partsScroll": {
+                            "on": "scroll",
+                            "scrollSpec": {
+                                "verticalBoundaries": [
+                                    25,
+                                    90
+                                ]
+                            },
+                            // Отслеживание скроллинга как цели 
+                            "request": "reachGoal",
+                            "vars": {
+                                "goalId": "partsScrollGoal"
+                            }
+                        }
+                    }
+                }
+            </script>
+        </amp-analytics>
