@@ -23,11 +23,12 @@ title: Все для развития психолога
  </header>
   </section>
 <p>&nbsp;</p>
-<b class="blog-description">РУБРИКИ САЙТА:</b><br />
-
+  
 <article class="post">
 <section class="post-content">
 <div class="container">
+<b class="blog-description">РУБРИКИ САЙТА:</b><br />
+
 {% for tag in site.tags %}
   {% assign t = tag | first %}
   {% assign posts = tag | last %}
