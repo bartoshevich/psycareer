@@ -498,7 +498,7 @@ body {
   text-align: right;
   padding: 20px 0 0;
   a {
-    text-decoration: none;
+    text-decoration: underline;
     color: #666666;
     padding-left: 5px;
     .hidden {
@@ -513,7 +513,7 @@ body {
 .share-index {
   padding: 13px 0 0;
   a {
-    text-decoration: none;
+    text-decoration: underline;
     color: #666666;
     padding-left: 5px;
     .hidden {
