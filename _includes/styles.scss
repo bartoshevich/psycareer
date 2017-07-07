@@ -499,7 +499,7 @@ body {
   padding: 10px 0 0;
   a {
     text-decoration: none;
-    color: #bbbbbb;
+    color: #666666;
     padding-left: 5px;
     .hidden {
       display: none;
@@ -510,6 +510,20 @@ body {
   }
 }
 
+.share-index {
+  
+  a {
+    text-decoration: none;
+    color: #666666;
+    padding-left: 5px;
+    .hidden {
+      display: none;
+    }
+    &:hover {
+      color: #333333;
+    }
+  }
+}
 
 pre,
 code {
