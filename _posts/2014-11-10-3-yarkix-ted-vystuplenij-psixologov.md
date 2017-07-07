@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-youtube
 title:  "3 ярких TED-выступлений психологов"
 description: "Видео популярных выступлений психологов на конференции TED"
 date:   2014-11-10			 
