@@ -11,7 +11,7 @@
 
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
- <meta name="author" content="{{ site.name }}" />  {% if page.title %}  <meta property="og:title" content="{{ page.title }}" />   <meta property="twitter:title" content="{{ page.title }}" />   {% endif %}
+ <meta name="author" content="{{ site.name }}" />  {% if page.title %}  <meta property="og:title" content="{{ page.title }}" />  <meta name=”copyright” content=”Все права принадлежат Дмитрию Бартошевичу - www.psycareer.ru”> <meta property="twitter:title" content="{{ page.title }}" />   {% endif %}
   
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
