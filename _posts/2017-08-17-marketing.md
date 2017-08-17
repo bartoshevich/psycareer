@@ -5,7 +5,7 @@ description: "Маркетинг психологических услуг — �
 date:   2017-08-17			 
 image: /assets/images/psycareer.png
 permalink: "marketing/"
-tags: "psy-реклама"
+tags: "psy-реклама psy-позиционирование"
 ---
 
 
