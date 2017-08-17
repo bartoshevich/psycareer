@@ -1,0 +1,39 @@
+---
+layout: post-youtube
+title:  "Фундамент успешной частной практики"
+description: "Маркетинг психологических услуг — интервью с маркетологом Дмитрием Бартошевичем"
+date:   2017-08-17			 
+image: /assets/images/psycareer.png
+permalink: "marketing/"
+tags: "psy-реклама"
+---
+
+
+<p>Тем, кто устал от&nbsp;хаоса и&nbsp;случайностей в&nbsp;привлечении клиентов и&nbsp;хочет перейти к&nbsp;системной и&nbsp;стабильной работе, рекомендую вебинар, на&nbsp;котором я&nbsp;и&nbsp;психолог Ольга Писарева рассуждали о&nbsp;маркетинге психологических услуг. </p>
+<p><strong>Вебинар обязателен</strong> для тех, кто: </p>
+<ul> 
+	<li> 
+		намерен зарабатывать частными консультациями. 
+ 	</li>
+ </ul>
+<p><strong>Вебинар полезен</strong> для тех, кто:</p>
+<ul> 
+<li> 
+не&nbsp;знает, что говорить о&nbsp;себе клиентам; 
+ 	</li>
+	<li> 
+		хочет выстроить личный бренд; 
+ 	</li>
+	<li> 
+		не&nbsp;понимает, где искать клиентов; 
+ 	</li>
+	<li> 
+		не&nbsp;знает, как и&nbsp;где рекламироваться. 
+ 	</li>
+ </ul>
+
+
+ <amp-youtube data-videoid="Ocx-TZ3Uj04" layout="responsive" width="560" height="315"></amp-youtube>
+ 
+ <p>Стоимость записи вебинара, презентации и&nbsp;рабочих материалов для психолога&nbsp;— 60&nbsp;BYN (~$30). </p>
+<p>Узнать подробнее и&nbsp;купить&nbsp;— <a href="https://pisareva.by/product/marketing/">https://pisareva.by/product/marketing/</a> </p>
