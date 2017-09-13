@@ -35,5 +35,5 @@ tags: "psy-реклама psy-позиционирование"
 
  <amp-youtube data-videoid="Ocx-TZ3Uj04" layout="responsive" width="560" height="315"></amp-youtube>
  
- <p>Стоимость записи вебинара, презентации и&nbsp;рабочих материалов для психолога&nbsp;— 60&nbsp;BYN (~$30). </p>
+ <p>Стоимость записи вебинара, презентации и&nbsp;рабочих материалов для психолога&nbsp;— 60&nbsp;белорусских рублей (~$30). </p>
 <p><a href="https://goo.gl/PFYpi1">Узнать подробнее и&nbsp;купить.</a> </p>
