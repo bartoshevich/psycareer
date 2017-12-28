@@ -15,7 +15,7 @@ permalink: /poleznye-ssylki/
 	<li><a href="http://roapinfo.ru/">Российское общество аналитической психологии</a></li>
 	<li><a href="http://psychiatr.ru/">Российское общество психиатров</a></li>
 	<li><a href="http://psyrus.ru/">Российское психологическое сообщество</a></li>
-		</ amp ul>
+		</ul amp>
 </p>
 <p><b>Обучение</b><br/>
 	<a href="http://www.vegi.ru/">Восточно-Европейский гештальт институт</a><br/>
