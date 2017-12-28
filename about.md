@@ -26,6 +26,7 @@ permalink: /poleznye-ssylki/
 <li>	<a href="http://www.imaton.ru/">Институт практической психологии «Иматон» </a></li>
 <li>	<a href="http://www.psychol.ru/">Институт практической психологии и&nbsp;психоанализа </a></li>
 <li>	<a href="http://psyinst.ru/">Институт психотерапии и&nbsp;клинической психологии</a></li>
+<li>	<a href="http://institut.smysl.ru/">Институт экзистенциальной психологии и&nbsp;жизнетворчества</a></li>
 <li>	<a href="http://www.gestalt.ru/">Московский гештальт институт</a></li>
 <li>	<a href="http://www.inpsycho.ru/">Московский институт психоанализа</a></li>
 <li>	<a href="http://www.mniip.org/">Московский НИИ психиатрии </a></li>
