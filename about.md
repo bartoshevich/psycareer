@@ -4,8 +4,8 @@ title: Полезные ссылки
 permalink: /poleznye-ssylki/
 ---
 
-<span class="post-content">
-<p><b>Профессиональные сообщества</b><br>
+
+<p><b>Профессиональные сообщества</b></p>
 	<ul>
 		<li><a href="http://appme.ru/">Альянс помогающих практик «ПроБоно»</a></li>
 	<li><a href="http://www.atdt.ru/">Ассоциация танцевально-двигательной терапии</a></li>
@@ -16,7 +16,7 @@ permalink: /poleznye-ssylki/
 	<li><a href="http://psychiatr.ru/">Российское общество психиатров</a></li>
 	<li><a href="http://psyrus.ru/">Российское психологическое сообщество</a></li>
 		</ul>
-</p>
+
 <p><b>Обучение</b><br/>
 	<a href="http://www.vegi.ru/">Восточно-Европейский гештальт институт</a><br/>
 	<a href="http://eeip.ru/">Восточно-Европейский институт психоанализа</a><br/>
@@ -36,4 +36,4 @@ permalink: /poleznye-ssylki/
 	<a href="http://hpsy.ru/">Сайт «экзистенциальная и&nbsp;гуманистическая психология»</a><br/>
 	<a href="https://bartoshevich.by/">Блог о&nbsp;маркетинге за который не стыдно</a>
 </p>
-</span>
+
