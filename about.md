@@ -4,7 +4,7 @@ title: Полезные ссылки
 permalink: /poleznye-ssylki/
 ---
 
-
+<span class="post-content">
 <p><b>Профессиональные сообщества</b><br>
 	<ul>
 		<li><a href="http://appme.ru/">Альянс помогающих практик «ПроБоно»</a></li>
@@ -36,3 +36,4 @@ permalink: /poleznye-ssylki/
 	<a href="http://hpsy.ru/">Сайт «экзистенциальная и&nbsp;гуманистическая психология»</a><br/>
 	<a href="https://bartoshevich.by/">Блог о&nbsp;маркетинге за который не стыдно</a>
 </p>
+</span>
