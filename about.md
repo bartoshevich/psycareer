@@ -6,7 +6,7 @@ permalink: /poleznye-ssylki/
 
 
 <p><b>Профессиональные сообщества</b><br>
-	<ul>
+	<amp ul>
 		<li><a href="http://appme.ru/">Альянс помогающих практик «ПроБоно»</a></li>
 	<li><a href="http://www.atdt.ru/">Ассоциация танцевально-двигательной терапии</a></li>
 	<li><a href="http://www.maap.ru/">Московская ассоциация аналитической психологии</a></li>
@@ -15,7 +15,7 @@ permalink: /poleznye-ssylki/
 	<li><a href="http://roapinfo.ru/">Российское общество аналитической психологии</a></li>
 	<li><a href="http://psychiatr.ru/">Российское общество психиатров</a></li>
 	<li><a href="http://psyrus.ru/">Российское психологическое сообщество</a></li>
-		</ul>
+		</ amp ul>
 </p>
 <p><b>Обучение</b><br/>
 	<a href="http://www.vegi.ru/">Восточно-Европейский гештальт институт</a><br/>
