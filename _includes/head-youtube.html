@@ -16,6 +16,29 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
 
+  <link rel="author" href="https://plus.google.com/u/0/+DmitryBartoshevich?rel=author"/>
+
+<meta property="og:locale" content="ru_RU">
+<meta property="og:type" content="article">
+<meta property="og:title" content="{%if page.title %}{{ page.title }}{% else %}psycareer.ru{% endif %}">
+<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+<meta property="og:image" content="{% if page.image %}{{ site.url }}{{ page.image }}{% else %}http://www.psycareer.ru/assets/images/218.png{% endif %}" />
+<meta property="og:site_name" content="psycareer.ru">
+<meta property="article:publisher" content="https://plus.google.com/u/0/+DmitryBartoshevich" />
+<meta property="article:author" content="https://plus.google.com/u/0/+DmitryBartoshevich?rel=author" />
+<meta property="article:published_time" content="{{ page.date }}" />
+<meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:title" content="{%if page.title %}{{ page.title }}{% else %}psycareer.ru{% endif %}">
+<meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+<meta name="twitter:site" content="@psycareer" />
+<meta name="twitter:creator" content="@psycareer">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="{% if page.image %}{{ site.url }}{{ page.image }}{% else %}http://www.psycareer.ru/assets/images/218.png{% endif %}">
+
+
+
+  
   <script type="application/ld+json">
   {% include metadata.json %}
   </script>
