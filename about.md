@@ -36,6 +36,7 @@ permalink: /poleznye-ssylki/
 <p><b>Другое</b></p>
 <ul>
 <li>	<a href="http://psypress.ru/">Агентство психологических новостей </a></li>
+<li>	<a href="https://ru.jooble.org/%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D0%BF%D1%81%D0%B8%D1%85%D0%BE%D0%BB%D0%BE%D0%B3">Вакансии, работа для психолога </a></li>
 <li>	<a href="http://hpsy.ru/">Сайт «экзистенциальная и&nbsp;гуманистическая психология»</a></li>
 <li>	<a href="https://bartoshevich.by/">Блог о&nbsp;маркетинге за который не стыдно</a></li>
 </ul>
