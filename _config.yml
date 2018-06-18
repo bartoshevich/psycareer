@@ -12,7 +12,7 @@ description: >
   Все для развития психолога
 logo: "/assets/images/128.jpg"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.psycareer.ru" # the base hostname & protocol for your site
+url: "https://www.psycareer.ru" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
 name: 'Дмитрий Бартошевич'
