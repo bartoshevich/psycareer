@@ -9,7 +9,7 @@ tags: "psy-продажи psy-интернет"
 ---
 
 
-<p>Психолог может привлекать клиентов через <a href="http://www.psycareer.ru/sposoby-naxozhdeniya-klientov-sajt-psixologa/">сайт</a>, <a href="http://www.psycareer.ru/sposoby-naxozhdeniya-klientov-publichnye-vystupleniya/">выступления в&nbsp;СМИ</a> и&nbsp;<a href="http://www.psycareer.ru/sposoby-naxozhdeniya-klientov-sotrudnichestvo/">сотрудничество</a>. Давайте рассмотрим еще один способ нахождения клиентов&nbsp;— социальные сети.</p>
+<p>Психолог может привлекать клиентов через <a href="/sposoby-naxozhdeniya-klientov-sajt-psixologa/">сайт</a>, <a href="/sposoby-naxozhdeniya-klientov-publichnye-vystupleniya/">выступления в&nbsp;СМИ</a> и&nbsp;<a href="/sposoby-naxozhdeniya-klientov-sotrudnichestvo/">сотрудничество</a>. Давайте рассмотрим еще один способ нахождения клиентов&nbsp;— социальные сети.</p>
 
 <h2>Основа продвижения психологических услуг в&nbsp;социальных медиа</h2>
 <p>Социальные сети нацелены на&nbsp;диалог и&nbsp;это отличает их&nbsp;от&nbsp;других каналов продвижения услуг. В&nbsp;соц. сетях не&nbsp;просто публикуют информацию, ее&nbsp;обсуждают, критикуют, что-то предлагают. Комментарии к&nbsp;популярным постам в&nbsp;ЖЖ иногда занимают в&nbsp;больше места, чем сами записи. Открывая ту&nbsp;или иную страничку блога, люди подсознательно ожидают увидеть&nbsp;то, что можно обсудить (либо переслать друзьям).</p>
