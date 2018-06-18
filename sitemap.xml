@@ -17,12 +17,12 @@ layout: null
   {% endfor %}
 
 <url>
-<loc>http://www.psycareer.ru/</loc>
+<loc>https://www.psycareer.ru/</loc>
 <changefreq>weekly</changefreq>
       <priority>1.0</priority>
 </url>
 <url>
-<loc>http://www.psycareer.ru/poleznye-ssylki/</loc>
+<loc>https://www.psycareer.ru/poleznye-ssylki/</loc>
 </url>
 </urlset>
 
