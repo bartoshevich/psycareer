@@ -7,7 +7,7 @@ image: /assets/images/psycareer.png
 permalink: "gde-mogut-rabotat-psixologi/"
 tags: "psy-общее"
 ---
-<div class="with-side>
+<div class="with-side">
 <p>Если у&nbsp;вас психологическое образование, вы&nbsp;можете работать в&nbsp;системе здравоохранения, на&nbsp;торгово-промышленных предприятиях, сфере образования и&nbsp;в&nbsp;военных подразделениях.</p>
 
 <h2>Психолог в&nbsp;системе образования</h2>
