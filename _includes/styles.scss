@@ -563,7 +563,7 @@ mark {background-color:#ffffaa;}
     
 }
 
-/*****side*******/ .with-side { position : relative; } .side { margin-top : 8px; font-size: 12px; line-height: 18px; color : inherit; position : absolute; top : 0; left : 109%; width : 10vw; color: #333; margin-bottom: 2em; } .side img { width : auto; max-width : 100%; } .side strong { font-size : 3rem; font-weight : 100; }
+/*****side*******/ .with-side { position : relative; } .side { margin-top : 8px; font-size: 14px; line-height: 18px; color : inherit; position : absolute; top : 0; left : 109%; width : 10vw; color: #333; margin-bottom: 2em; } .side img { width : auto; max-width : 100%; } .side strong { font-size : 3rem; font-weight : 100; } 
 
 @media screen and (max-width: 1023px) {
   .side {position : relative; left : 9%; width : 90%; font-size : 14px; line-height : 1.5rem; }
