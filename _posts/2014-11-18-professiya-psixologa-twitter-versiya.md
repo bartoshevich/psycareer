@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Профессия психолога по версии Twitter :-)"
+title: "Смешное о психологах"
+name: "Профессия психолога по версии Twitter :-)"
 description: "О психологах, процессе консультирования, методах продвижения глазами пользователей сети Twitter"
 date:   2014-11-18			 
 image: /assets/images/psycareer.png
 permalink: "professiya-psixologa-twitter-versiya/"
 tags: "psy-общее"
+keywords: "психолог смешно"
 ---
 
 <p>Давайте посмотрим на&nbsp;профессию психолога глазами пользователя Twitter.</p>

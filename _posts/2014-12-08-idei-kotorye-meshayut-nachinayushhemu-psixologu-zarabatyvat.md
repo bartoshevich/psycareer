@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Установки, которые мешают начинающему психологу зарабатывать"
+title:  "Какие убеждения сдерживают доход психолога"
+name: "Установки, которые мешают начинающему психологу зарабатывать"
 description: "Критический анализ двух установок, которые мешают зарабатывать начинающему психологу"
 date:   2014-12-08			 
 image: /assets/images/psycareer.png
 permalink: "idei-kotorye-meshayut-nachinayushhemu-psixologu-zarabatyvat/"
 tags: "psy-деньги"
+keywords: "убеждения"
 ---
 
 <p>Согласны&nbsp;ли вы&nbsp;с&nbsp;высказываниями:</p>

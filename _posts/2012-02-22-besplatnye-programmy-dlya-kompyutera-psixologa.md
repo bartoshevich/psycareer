@@ -1,11 +1,13 @@
 ---
 layout: post
 title:  "Бесплатные программы для компьютера психолога"
+name: "Бесплатные программы для пользователя Windows"
 description: "Список бесплатных программ для компьютера психолога"
 date:   2012-02-26			 
 image: /assets/images/psycareer.png
 permalink: "besplatnye-programmy-dlya-kompyutera-psixologa/"
 tags: "psy-общее"
+keywords: "программы для Windows"
 ---
 
 <p>Предлагаю перечень базовых компьютерных программ, с&nbsp;помощью которых каждый психолог превратит компьютер в&nbsp;полноценный инструмент для повседневной работы.</p>

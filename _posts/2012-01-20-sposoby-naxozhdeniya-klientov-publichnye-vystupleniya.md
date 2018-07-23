@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Способы нахождения клиентов: публичные выступления"
+title: "Способы привлечения клиентов: публичные выступления" 
+name: "Способы нахождения клиентов: публичные выступления"
 description: "Как психолог может найти клиентов с помощью публичных выступлений, как психологу организовать работу со СМИ"
 date:   2012-01-20			 
 image: /assets/images/psycareer.png
 permalink: "sposoby-naxozhdeniya-klientov-publichnye-vystupleniya/"
 tags: "psy-продажи	"
+keywords: "публичные выступления психолога"
 ---
 
 <p>Продвигать психологические услуги и&nbsp;находить клиентов психолог может с&nbsp;помощью <a href="/sposoby-naxozhdeniya-klientov-sotrudnichestvo/">сотрудничества</a>, публичных выступлений, <a href="/sposoby-naxozhdeniya-klientov-sajt-psixologa/">сайта</a> и&nbsp;<a href="/sposoby-naxozhdeniya-klientov-socialnye-media/">социальных сетей</a>. В&nbsp;этой статье рассмотрю, как привлечь клиентов на&nbsp;тренинги и&nbsp;увеличить спрос на&nbsp;консультации с&nbsp;помощью публичных выступлений.</p>

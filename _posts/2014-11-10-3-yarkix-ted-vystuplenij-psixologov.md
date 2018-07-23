@@ -1,11 +1,13 @@
 ---
 layout: post-youtube
-title:  "3 ярких TED-выступлений психологов"
+title:  "Выступления психологов на TED "
+name: "3 ярких TED-выступлений психологов"
 description: "Видео популярных выступлений психологов на конференции TED"
 date:   2014-11-10			 
 image: /assets/images/psycareer.png
 permalink: "3-yarkix-ted-vystuplenij-psixologov/"
 tags: "psy-общее"
+keywords: "TED"
 ---
 
 <p>Миссия конференции TED состоит в&nbsp;распространении уникальных идей. Давайте вместе посмотрим, какие идеи, по&nbsp;мнению приглашенных психологов, достойны распространения.</p>

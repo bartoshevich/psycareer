@@ -1,11 +1,13 @@
 ---
 layout: post-youtube
-title:  "Способы нахождения клиентов: социальные сети"
+title:  "Способы привлечения клиентов: социальные сети"
+name: "Способы нахождения клиентов: социальные сети"
 description: "Как психологу найти клиентов с помощью социальных медиа, принципы вирусного маркетинга для психологов"
 date:   2012-01-26			 
 image: /assets/images/psycareer.png
 permalink: "sposoby-naxozhdeniya-klientov-socialnye-media/"
 tags: "psy-продажи psy-интернет"
+keywords: "психолог и социальные сети"
 ---
 
 

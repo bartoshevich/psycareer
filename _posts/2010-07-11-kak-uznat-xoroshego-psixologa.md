@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Как узнать хорошего психолога"
+title:  "Признаки хорошего психолога"
+name: "Как узнать хорошего психолога"
 description: "Признак хорошего психолога - содействие возникновению нового образа проблемной ситуации, иного ракурса ее восприятия"
 date:   2010-07-11 
 image: /assets/images/psycareer.png
 permalink: "kak-uznat-xoroshego-psixologa/"
 tags: "psy-общее"
+keywords: "хороший психолог"
 ---
 
 
