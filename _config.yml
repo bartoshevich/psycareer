@@ -17,7 +17,7 @@ paginate:	5 # The number of posts to show per page on your homepage
 
 name: 'Дмитрий Бартошевич'
 bio: >
- Я&nbsp;маркетолог, автор psycareer.ru. Помогаю психологам находить клиентов и&nbsp;зарабатывать частными консультациями. 
+ Я консультант по&nbsp;маркетингу, автор psycareer.ru. Помогаю психологам находить клиентов и&nbsp;зарабатывать частными консультациями. 
 author_image: "/assets/images/author.jpg"
 twitter_username: psycareer
 github_username:  #     jekyll
