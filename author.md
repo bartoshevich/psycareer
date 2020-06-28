@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Автор psycareer.ru
-description:
+description: Рассказываю, кто я и зачем создал psycareer.ru
 permalink: /author/
 ---
 
