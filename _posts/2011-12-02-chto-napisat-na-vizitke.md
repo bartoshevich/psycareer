@@ -16,7 +16,7 @@ keywords: "визитка психолога"
 <p>Затем Наталья сделала визитку двухсторонней и&nbsp;на&nbsp;второй стороне подробно указала, чем&nbsp;же она занимается.</p>
 
 
-<p><img src="https://res.cloudinary.com/bartoshevich/image/upload/f_auto,q_auto/v1593368831/psycareer/vizitka1.jpg" alt="psycareer.ru: работа над визиткой. этап 1" width="531" height="295" title="psycareer.ru: работа над визиткой. этап 1" layout="responsive" /></p>
+<p><img src="https://res.cloudinary.com/bartoshevich/image/upload/f_auto/v1593368831/psycareer/vizitka1.jpg" alt="psycareer.ru: работа над визиткой. этап 1" width="531" height="295" title="psycareer.ru: работа над визиткой. этап 1" layout="responsive" /></p>
 <p>Прошло некоторое время в&nbsp;размышлениях и&nbsp;чтении статей psycareer.ru, и&nbsp;обратная сторона визитки приобрела такой вид:</p>
-<p><img src="https://res.cloudinary.com/bartoshevich/image/upload/f_auto,q_auto/v1593368835/psycareer/vizitka2.jpg" alt="psycareer.ru: работа над визиткой. этап 2" width="531" height="295" title="psycareer.ru: работа над визиткой. этап 2" layout="responsive"/></p>
+<p><img src="https://res.cloudinary.com/bartoshevich/image/upload/f_auto/v1593368835/psycareer/vizitka2.jpg" alt="psycareer.ru: работа над визиткой. этап 2" width="531" height="295" title="psycareer.ru: работа над визиткой. этап 2" layout="responsive"/></p>
 <p>Первые результаты: таких вопросов как «По&nbsp;каким поводам к&nbsp;вам обращаться?» или «Чем именно психолог может мне помочь?» обладателю этой визитки родители задают все меньше и&nbsp;меньше.</p>
