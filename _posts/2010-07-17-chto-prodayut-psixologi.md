@@ -4,7 +4,7 @@ title: "Как клиенты выбирают психолога"
 name:  "Знания психолога - не главный фактор выбора для клиента"
 description: "Клиент не может оценить опыт и знания психолога, но распознает и покупает отношение."
 date:   2010-07-17		 
-image: /assets/images/psycareer.png
+image: 
 permalink: "chto-prodayut-psixologi/"
 tags: "psy-продажи"
 keywords: "выбор психолога"

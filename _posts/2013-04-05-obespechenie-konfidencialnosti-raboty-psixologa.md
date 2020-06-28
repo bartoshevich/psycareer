@@ -4,9 +4,9 @@ title: "Обеспечение конфиденциальности работы
 name: "Как психологу сохранить конфиденциальность работы"
 description: "Как должна обеспечиваться конфиденциальность при работе психолога с электронными документами"
 date:   2013-04-05			 
-image: /assets/images/psycareer.png
+image: 
 permalink: "obespechenie-konfidencialnosti-raboty-psixologa/"
-tags: "psy-общее"
+tags: "psy-интернет"
 keywords: "конфиденциальность работы психолога"
 ---
 

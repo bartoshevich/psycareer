@@ -4,7 +4,7 @@ title: "Чтобы психологу заработать, нужно быть 
 name: "Обязательно ли быть лучше всех, чтобы хорошо зарабатывать?"
 description: "На какие преимущества стоит опираться психологу при старте психологической практики"
 date:   2011-12-22			 
-image: /assets/images/psycareer.png
+image: 
 permalink: "sekret-uspexa-chastnoj-praktiki/"
 tags: "psy-позиционирование"
 keywords: "успех частной практики"

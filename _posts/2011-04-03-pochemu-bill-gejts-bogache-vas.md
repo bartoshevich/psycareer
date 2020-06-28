@@ -4,7 +4,7 @@ title:  "Условия большой зарплаты психолога"
 name: "Как психологу получать большой доход"
 description: "Чем более уникальным и востребованным сочетанием навыков и знаний обладает психолог, тем большее вознаграждение он получает."
 date:   2011-02-12			 
-image: /assets/images/psycareer.png
+image: 
 permalink: "pochemu-bill-gejts-bogache-vas/"
 tags: "psy-деньги"
 keywords: "зарплата психолога"

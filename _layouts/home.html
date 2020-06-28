@@ -1,0 +1,162 @@
+---
+layout: compress
+---
+
+
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+      <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+
+
+    {% include style.html %}
+    {% include meta.html %}
+
+
+
+
+  </head>
+  <body>
+<div class="content">
+  {% include nav.html %}
+
+
+
+  <section class="section">
+    <div class="container">
+
+      <div class="columns is-vcentered ">
+            <div class="column is-6">
+              <h1 class="title is-2">
+              Развитие частного психолога
+              </h1>
+              <p class="subtitle">
+              Материалы о&nbsp;том, как продвигать психологические услуги и&nbsp;стать востребованным психологом, как находить клиентов и&nbsp;зарабатывать частными консультациями.
+              </p>
+
+          </div>
+          <div class="column is-5 is-hidden-touch">
+            <figure class="image is-128x128">
+              <img class="is-rounded" src="/images/218.png">
+            </figure>
+
+            </div>
+    </div>
+{% include likely.html %}
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+<h2 id="blog">Избранное</h2>
+  <div class="multicolumn">
+    <ul class="mt-0">
+<li class="mb-2"><a href="/uzkaya-specializaciya/"> Как узкая специализация помогает психологу </a></li>
+<li class="mb-2"><a href="/tabu-v-reklame/"> Табу в рекламе психологических услуг </a></li>
+<li class="mb-2"><a href="/rekomendacii-po-napolneniyu-sajta-dlya-psixologa/"> Рекомендации психологу по наполнению сайта </a></li>
+<li class="mb-2"><a href="/sovet-nachinayushhim-psixologam-po-reklame-uslug/"> Принципы создания рекламы </a></li>
+<li class="mb-2"><a href="sfery-specializacii-psixologa/"> Сферы специализации психолога </a></li>
+<li class="mb-2"><a href="/kak-uvelichit-stoimost-konsultacii/"> Как увеличить стоимость консультации </a></li>
+<li class="mb-2"><a href="/gde-mogut-rabotat-psixologi/"> Где работают психологи </a></li>
+
+</ul>
+
+    </div>
+<br>
+
+      <h2 class="mt-6">Все записи</h2>
+  <h3>psy-позиционирование</h3>
+  <div class="multicolumn">
+  <ul class="mt-0">     {% assign sorted-posts = site.posts | where: "tags","psy-позиционирование" %}
+    {% for post in sorted-posts limit: 305 %}
+   <li class="mb-2"><a href="{{ post.url }}"> {{ post.name }} </a></li>
+    {% endfor %}
+</ul>
+  </div>
+
+  <h3 class="mt-6">psy-идея</h3>
+  <div class="multicolumn">
+    <ul class="mt-0">   {% assign sorted-posts = site.posts | where: "tags","psy-идеи" %}
+    {% for post in sorted-posts limit: 35 %}
+   <li class="mb-2"><a href="{{ post.url }}"> {{ post.name }} </a></li>
+    {% endfor %}
+</ul>
+  </div>
+
+    <h3 class="mt-6">psy-деньги</h3>
+  <div class="multicolumn">
+  <ul class="mt-0">      {% assign sorted-posts = site.posts | where: "tags","psy-деньги" %}
+    {% for post in sorted-posts limit: 35 %}
+  <li class="mb-2"><a href="{{ post.url }}"> {{ post.name }} </a></li>
+    {% endfor %}
+</ul>
+  </div>
+
+
+    <h3 class="mt-6">psy-образование</h3>
+<div class="multicolumn">
+  <ul class="mt-0">    {% assign sorted-posts = site.posts | where: "tags","psy-образование" %}
+  {% for post in sorted-posts limit: 35 %}
+  <li class="mb-2"><a href="{{ post.url }}"> {{ post.name }} </a></li>
+  {% endfor %}
+</ul>
+</div>
+
+
+  <h3 class="mt-6">psy-интернет</h3>
+<div class="multicolumn">
+<ul class="mt-0">  {% assign sorted-posts = site.posts | where: "tags","psy-интернет" %}
+  {% for post in sorted-posts limit: 35 %}
+    <li class="mb-2"><a href="{{ post.url }}"> {{ post.name }} </a></li>
+  {% endfor %}
+</ul>
+</div>
+
+
+  <h3 class="mt-6">psy-реклама</h3>
+<div class="multicolumn">
+<ul class="mt-0">  {% assign sorted-posts = site.posts | where: "tags","psy-реклама" %}
+  {% for post in sorted-posts limit: 35 %}
+<li class="mb-2"><a href="{{ post.url }}"> {{ post.name }} </a></li>
+  {% endfor %}
+  </ul>
+</div>
+
+
+      <h3 class="mt-6">psy-продажи</h3>
+<div class="multicolumn">
+      <ul class="mt-0">     {% assign sorted-posts = site.posts | where: "tags","psy-продажи" %}
+        {% for post in sorted-posts limit: 35 %}
+       <li class="mb-2"><a href="{{ post.url }}"> {{ post.name }} </a></li>
+        {% endfor %}</ul>
+</div>
+
+
+      <h3 class="mt-6">psy-общее</h3>
+<div class="multicolumn">
+  <ul class="mt-0">   {% assign sorted-posts = site.posts | where: "tags","psy-общее" %}
+  {% for post in sorted-posts limit: 35 %}
+ <li class="mb-2"><a href="{{ post.url }}"> {{ post.name }} </a></li>
+  {% endfor %}</ul>
+</div>
+
+
+
+
+</div>
+</section>
+
+
+
+
+
+
+</div>
+{% include footer.html %}
+
+  {% include script.html %}
+
+  </body>
+</html>

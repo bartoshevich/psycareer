@@ -4,7 +4,7 @@ title: "Что следует знать психологу, который ищ
 name: "Поиск работы: что следует знать начинающему психологу"
 description: "Прежде чем начать поиск работы начинающему психологу следует выбрать те задачи, в решении которых он намерен профессионально развиваться"
 date:   2012-01-06			 
-image: /assets/images/psycareer.png
+image: 
 permalink: "zabluzhdenie-nachinayushhego-psixologa/"
 tags: "psy-общее"
 keywords: "поиск работы"

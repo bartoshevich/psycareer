@@ -1,10 +1,10 @@
 ---
-layout: post-youtube
+layout: post
 title:  "Способы привлечения клиентов: социальные сети"
 name: "Способы нахождения клиентов: социальные сети"
 description: "Как психологу найти клиентов с помощью социальных медиа, принципы вирусного маркетинга для психологов"
 date:   2012-01-26			 
-image: /assets/images/psycareer.png
+image:
 permalink: "sposoby-naxozhdeniya-klientov-socialnye-media/"
 tags: "psy-продажи psy-интернет"
 keywords: "психолог и социальные сети"
@@ -22,7 +22,7 @@ keywords: "психолог и социальные сети"
 <p>Чтобы «сарафанного радио» работало на&nbsp;100%, следуйте трем правилам:</p>
 <p><em>1) Добейтесь большого количества читателей блога, друзей или подписчиков страницы в&nbsp;социальной сети</em></p>
 <p>Как увеличить число фоловеров:</p>
-<ul> 
+<ul>
 	<li>активно участвуйте в&nbsp;жизни интернет-сообщества (комментируйте, делитесь новостями, задавайте вопросы и&nbsp;т.д.);</li>
 	<li>регулярно, но&nbsp;не&nbsp;навязчиво размещайте ссылки на&nbsp;блог, аккаунт в&nbsp;Twitter, Facebook и&nbsp;т.&nbsp;д.</li>
 </ul>
@@ -38,4 +38,20 @@ keywords: "психолог и социальные сети"
 <p>Важный вопрос, который я&nbsp;хочу затронуть,&nbsp;— где стоит продвигать психологические услуги. В&nbsp;Twitter? Использовать&nbsp;ли Facebook? Или ограничиться только «ВКонтакте»? А&nbsp;может быть, для разной категории клиентов выбрать разные социальные сети и&nbsp;с&nbsp;каждой группой говорить на&nbsp;своем языке? На&nbsp;этот вопрос ответите только&nbsp;вы, поскольку вы&nbsp;лучше всех знаете своего клиента. Если сомневаетесь, зарегистрируетесь на&nbsp;разных ресурсах и&nbsp;отслеживаете статистику посещений и&nbsp;количество комментариев. Со&nbsp;временем выберете тот ресурс, на&nbsp;котором сосредоточите основные усилия.</p>
 <p>В&nbsp;качестве завершения статьи, покажу видео, в&nbsp;котором рассказывается об&nbsp;основных преимуществах использования социальных сетей.</p>
 
-<amp-youtube data-videoid="rxwl8XOcTUo" layout="responsive" width="560" height="315"></amp-youtube>
+<div class="video">
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/rxwl8XOcTUo"
+  srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a href=https://www.youtube.com/embed/rxwl8XOcTUo?autoplay=1><img src=https://img.youtube.com/vi/rxwl8XOcTUo/hqdefault.jpg alt='Видео о социальных сетях'><span>▶</span></a>"
+  frameborder="0"
+  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen
+  title="Социальные сети"
+></iframe>
+
+{% comment %}
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rxwl8XOcTUo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% endcomment %}
+
+</div>

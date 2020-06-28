@@ -4,7 +4,7 @@ title: "Текст для визитки психолога"
 name: "Что психологу написать на визитке"
 description: "Визитка психолога. Пример редактирования текста на визитке."
 date:   2011-12-02			 
-image: /assets/images/psycareer.png
+image:
 permalink: "chto-napisat-na-vizitke/"
 tags: "psy-идеи"
 keywords: "визитка психолога"
@@ -16,7 +16,7 @@ keywords: "визитка психолога"
 <p>Затем Наталья сделала визитку двухсторонней и&nbsp;на&nbsp;второй стороне подробно указала, чем&nbsp;же она занимается.</p>
 
 
-<p><amp-img src="/assets/images/vizitka1.jpg" alt="psycareer.ru: работа над визиткой. этап 1" width="531" height="295" title="psycareer.ru: работа над визиткой. этап 1" layout="responsive"></amp-img></p>
+<p><img src="/images/vizitka1.jpg" alt="psycareer.ru: работа над визиткой. этап 1" width="531" height="295" title="psycareer.ru: работа над визиткой. этап 1" layout="responsive" /></p>
 <p>Прошло некоторое время в&nbsp;размышлениях и&nbsp;чтении статей psycareer.ru, и&nbsp;обратная сторона визитки приобрела такой вид:</p>
-<p><amp-img src="/assets/images/vizitka2.jpg" alt="psycareer.ru: работа над визиткой. этап 2" width="531" height="295" title="psycareer.ru: работа над визиткой. этап 2" layout="responsive"></amp-img></p>
+<p><img src="/images/vizitka2.jpg" alt="psycareer.ru: работа над визиткой. этап 2" width="531" height="295" title="psycareer.ru: работа над визиткой. этап 2" layout="responsive"/></p>
 <p>Первые результаты: таких вопросов как «По&nbsp;каким поводам к&nbsp;вам обращаться?» или «Чем именно психолог может мне помочь?» обладателю этой визитки родители задают все меньше и&nbsp;меньше.</p>

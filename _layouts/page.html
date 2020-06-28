@@ -1,16 +1,55 @@
 ---
-layout: default
+layout: compress
 ---
-<main class="content" role="main">
-  <article class="post">
-    <div class="post-meta">
-      <h1 class="post-title">{{ page.title }}</h1>
-    </div>
-    <section class="post-content">
-      <a name="topofpage"></a>
-      {{content}}
-    </section>
-  </article>
-</main>
+
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+      <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+
+
+    {% include style.html %}
+    {% include meta.html %}
+
+
+
+  </head>
+  <body>
+<div class="content">
+  {% include nav.html %}
+
+
+
+        <section class="section">
+              <div class="container">
+
+                      <div class="column is-8 pl-0">
+
+
+
+
+                			   
+
+                            <div itemprop="articleBody">
+                            	{{ content }}
+                            </div>
+                          	<p>&nbsp;</p>
+
+
+
+                		</div>
+          	</div>
+      </section>
+
+
+
+</div>
 
 {% include footer.html %}
+
+  {% include script.html %}
+
+  </body>
+</html>

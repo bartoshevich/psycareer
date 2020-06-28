@@ -1,26 +1,22 @@
 
+<div class="related_posts">
 
- <b>Смотреть</b>   <br /> 
-
-
-- <a href="https://youtu.be/1y5jNAP28kE">выступление «Сайт психолога: типичные ошибки»</a> 
-<br>
 
 {% if site.related_posts.size >= 1 %}
 
-<div class="rect">
-  
+
+
 <div>
-  <b>Узнать больше</b>   <br /> 
- 
+  <b>Узнать больше</b>   <br />
+ <ul>
   {% assign maxRelated = 6 %}
   {% assign minCommonTags =  1 %}
   {% assign maxRelatedCounter = 0 %}
 
- 
+
   {% for post in site.posts %}
 
-   
+
     {% assign sameTagCount = 0 %}
     {% assign commonTags = '' %}
 
@@ -35,12 +31,12 @@
     {% endfor %}
 
     {% if sameTagCount >= minCommonTags %}
-    
-   
-  - <a href="{{ post.url }}">{{ post.name }}</a> <br />
-          
-   
-       
+
+
+  <li class="mb-2"> <a href="{{ post.url }}">{{ post.name }}</a> </li>
+
+
+
 
       {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
       {% if maxRelatedCounter >= maxRelated %}
@@ -48,13 +44,12 @@
       {% endif %}
     {% endif %}
   {% endfor %}
-
+</ul>
 </div>
 {% endif %}
+<br>
+<b>Смотреть</b>   <br />
+
+<ul><li class="mb-2"><a href="https://youtu.be/1y5jNAP28kE">выступление «Сайт психолога: типичные ошибки»</a></li></ul>
 
 </div>
-
-
-
-
-

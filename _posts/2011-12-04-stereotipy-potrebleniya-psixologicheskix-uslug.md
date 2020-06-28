@@ -4,7 +4,7 @@ title: "Как привлечь клиентов, когда к психолог
 name:  "Как найти клиентов, когда к психологу ходить не принято"
 description: "Люди не идут к психологу из-за неспособности психологов ясно и четко донести до потенциальных клиентов спектр решаемых актуальных проблем."
 date:   2011-12-04			 
-image: /assets/images/psycareer.png
+image: 
 permalink: "stereotipy-potrebleniya-psixologicheskix-uslug/"
 tags: "psy-продажи"
 keywords: "как психологу привлечь клиента"

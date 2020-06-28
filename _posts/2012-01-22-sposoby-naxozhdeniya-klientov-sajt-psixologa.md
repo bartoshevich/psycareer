@@ -4,7 +4,7 @@ title:  "Способы привлечения клиентов: сайт пси
 name: "Способы нахождения клиентов: сайт психолога"
 description: "Как психологу найти клиентов с помощью сайта, принципы работы над его наполнением"
 date:   2012-01-22			 
-image: /assets/images/psycareer.png
+image: 
 permalink: "sposoby-naxozhdeniya-klientov-sajt-psixologa/"
 tags: "psy-продажи psy-интернет"
 keywords: "сайт психолога"

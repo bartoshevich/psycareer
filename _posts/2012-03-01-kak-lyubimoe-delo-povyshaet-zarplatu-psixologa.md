@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Повышает ли зарплату психолога любовь к работе" 
+title: "Повышает ли зарплату психолога любовь к работе"
 name: "Как любимое дело повышает зарплату психолога"
 description: "Любимое дело увеличивает доход психолога, но при определенных условиях."
 date:   2012-03-01			 
-image: /assets/images/psycareer.png
+image: 
 permalink: "kak-lyubimoe-delo-povyshaet-zarplatu-psixologa/"
 tags: "psy-деньги"
 keywords: "оплата труда психолога"

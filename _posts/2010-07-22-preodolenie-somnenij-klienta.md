@@ -4,7 +4,7 @@ title: "Что поможет клиенту выбрать психолога"
 name: "Как клиенту помочь выбрать психолога"
 description: "Описание трех зарекомендовавших себя способов снижения сомнений клиента, связанных с обращением к психологу"
 date:   2010-07-22			 
-image: /assets/images/psycareer.png
+image: 
 permalink: "preodolenie-somnenij-klienta/"
 tags: "psy-продажи"
 keywords: "снижение сомнений клиента"

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Важность специализации для психолога" 
+title: "Важность специализации для психолога"
 name: "Становитесь отличным психологом: урок от таксиста	"
 description: "Таксист показывает, как можно успешно работать психологу на высококонкурентном рынке"
 date:   2012-01-05			 
-image: /assets/images/psycareer.png
+image: 
 permalink: "stanovites-otlichnymoj-zachem-i-kak/"
 tags: "psy-позиционирование"
 keywords: "позиционирование психолога"

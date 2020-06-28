@@ -4,7 +4,7 @@ title: "Факторы успешности рекламы психолога"
 name: "Формула рекламы для психолога"
 description: "Описание принципов, по которым должна строиться успешная реклама психолога"
 date:   2012-04-17			 
-image: /assets/images/psycareer.png
+image: 
 permalink: "formula-reklamy-dlya-psixologa/"
 tags: "psy-реклама"
 keywords: "текст рекламы психолога"

@@ -1,0 +1,17 @@
+{
+    "name": "Развитие частного психолога",
+    "short_name": "psycareer.ru",
+    "icons": [
+        {
+            "src": "/images/218.png",
+            "sizes": "218x218",
+            "type": "image/png"
+        }
+       
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "start_url": "/",
+    "scope": "/",
+    "display": "standalone"
+}

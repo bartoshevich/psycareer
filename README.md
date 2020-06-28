@@ -1,2 +1,2 @@
 
-Jekyll source for psycareer.ru. You can’t use images and content.
+Jekyll source for psycareer.ru. You can’t use html, css, images or content.

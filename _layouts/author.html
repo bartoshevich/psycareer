@@ -1,0 +1,69 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+      <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+
+
+    {% include style.html %}
+    {% include meta.html %}
+
+
+
+  </head>
+  <body>
+<div class="content">
+  {% include nav.html %}
+
+
+
+        <section class="section">
+              <div class="container">
+                  <h1> Дмитрий Бартошевич</h1>
+<div class="columns">
+                      <div class="column is-7">
+
+
+
+
+
+
+                            <div itemprop="articleBody">
+
+                            	{{ content }}
+                            </div>
+                          	<p>&nbsp;</p>
+
+
+
+                		</div>
+
+    <div class="column is-5">
+      <div class="image is-4by3">
+        <img src="https://res.cloudinary.com/bartoshevich/image/upload/f_auto,q_auto/v1593283872/psycareer/bartoshevich.jpg" alt="Дмитрий Бартошевич" />
+      </div>
+
+
+      </div>
+
+
+
+                    </div>
+          	</div>
+      </section>
+
+
+
+</div>
+
+{% include footer.html %}
+
+  {% include script.html %}
+
+  </body>
+</html>

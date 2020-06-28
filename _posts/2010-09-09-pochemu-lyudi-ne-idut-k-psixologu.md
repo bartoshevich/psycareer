@@ -4,7 +4,7 @@ title: "Сложности продвижения психологических
 name: "Почему люди не идут к психологу?"
 description: "Основная причина отсутствия у психолога клиентов - непонимание потребностей своей целевой аудитории"
 date:   2010-09-09			 
-image: /assets/images/psycareer.png
+image: 
 permalink: "pochemu-lyudi-ne-idut-k-psixologu/"
 tags: "psy-продажи"
 keywords: "cложности продвижения психологических услуг"

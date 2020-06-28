@@ -4,7 +4,7 @@ title:  "Если вы хотите учиться на психолога, пр
 name: "Психологическое образование — ожидания и действительность"
 description: "Рассмотрим три стереотипа о психологическом образовании, которые не соответствуют действительности."
 date:   2011-12-18			 
-image: /assets/images/psycareer.png
+image: 
 permalink: "psixologicheskoe-obrazovanie-ozhidaniya-i-dejstvitelnost/"
 tags: "psy-образование"
 keywords: "психологическое образование"

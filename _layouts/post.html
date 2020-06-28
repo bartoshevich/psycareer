@@ -1,59 +1,72 @@
 ---
-layout: default
+layout: compress
 ---
-<main class="content" role="main">
-  <article class="post">
-    <div class="post-meta">
-      <h1 class="post-title">{{ page.name }}</h1>
-    </div>
 
-    <section class="post-content">
-      <a name="topofpage"></a>
-      {{content}}
-    </section>
-    <footer class="post-footer">
-      <section class="share">
-        {% include share.html %}
-      </section>
-      <section class="post-content">
-      {% include related.html %}
-      </section>
-    </footer>
-    <div class="bottom-teaser cf">
-      <div class="isLeft">
-        <h5 class="index-headline featured"><span>Обо мне</span></h5>
-        <section class="author">
-          <div class="author-image"></div>
-          <h4>{{ site.name }}</h4>
-          <p class="bio">{{site.bio}}</p>
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+      <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
 
-          <p>      
-              <a href="mailto:ask@psycareer.ru"><b>Написать письмо →</b> ask@psycareer.ru</a></p>
-            <p>&nbsp;</p>
-<p>
-            
-              <b><a href="https://vk.com/psycareer" rel="nofollow">ВКонтакте</a></b>
-              
-            
-          </p>
-          <hr>
-          <p class="published">&copy; 2010 - 2020 
-  </p>
-        </section>
-      </div>
-      <div class="isRight">
-        <h5 class="index-headline featured"><span>Консультация</span></h5>
-        
-        <div class="right-footer"> 
-           <p>Вы&nbsp;можете заказать у&nbsp;меня платную консультацию по&nbsp;скайпу. </p>
-<p class="bio">Я&nbsp;разберу задачи и&nbsp;ситуацию, дам обратную связь и&nbsp;рекомендации, помогу составить план действий. Стоимость одного часа обсуждения&nbsp;— <del>$50</del>, $60.</p>
-<p class="bio">Консультация может не&nbsp;соответствовать вашим ожиданиям. Боюсь, в&nbsp;этом случае я&nbsp;не&nbsp;смогу вернуть деньги. Если вас это не&nbsp;пугает и&nbsp;вы&nbsp;находите для себя возможную пользу от&nbsp;общения со&nbsp;мной, буду рад помочь.</p>
-         
-           
-          </div>
-        </footer>
-      </div>
-    </div>
-    {% include footer.html %}
-  </article>
-</main>
+
+    {% include style.html %}
+    {% include meta.html %}
+
+
+
+  </head>
+  <body>
+<div class="content">
+  {% include nav.html %}
+
+
+
+        <section class="section">
+              <div class="container">
+<div class="columns">
+                      <div class="column is-7 ">
+
+
+
+
+                			     <h1 class="title is-2" itemprop="name">{{ page.name }}</h1>
+
+                            <div itemprop="articleBody">
+                            	{{ content }}
+                            </div>
+                          	<p>&nbsp;</p>
+{% include likely.html %}
+
+
+
+                            {% comment %}
+                      			<div class="wtf	">
+                      		    {{ page.date | date: "%e %B %Y" | replace: 'January', 'января' | replace: 'February', 'февраля' | replace: 'March', 'марта' | replace: 'April', 'апреля' | replace: 'May', 'мая' | replace: 'June', 'июня' | replace: 'July', 'июля' | replace: 'August', 'августа' | replace: 'September', 'сентября' | replace: 'October', 'октября' | replace: 'November', 'ноября' | replace: 'December', 'декабря' }}
+                      		 	 </div>
+                             {% endcomment %}
+
+                		</div>
+
+<div class="column is-1"> </div>
+<div class="column is-4 ">
+<aside>
+{% include related.html %}
+</aside>
+  </div>
+
+</div>
+
+          	</div>
+      </section>
+
+
+
+</div>
+
+{% include footer.html %}
+
+  {% include script.html %}
+
+  </body>
+</html>
