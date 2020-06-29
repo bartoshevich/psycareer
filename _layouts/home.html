@@ -76,6 +76,15 @@ layout: compress
 </ul>
   </div>
 
+  <h3 class="mt-6">psy-продажи</h3>
+<div class="multicolumn">
+  <ul class="mt-0">     {% assign sorted-posts = site.posts | where: "tags","psy-продажи" %}
+    {% for post in sorted-posts limit: 35 %}
+   <li class="mb-2"><a href="{{ post.url }}"> {{ post.name }} </a></li>
+    {% endfor %}</ul>
+</div>
+
+
   <h3 class="mt-6">psy-идея</h3>
   <div class="multicolumn">
     <ul class="mt-0">   {% assign sorted-posts = site.posts | where: "tags","psy-идеи" %}
@@ -125,13 +134,7 @@ layout: compress
 </div>
 
 
-      <h3 class="mt-6">psy-продажи</h3>
-<div class="multicolumn">
-      <ul class="mt-0">     {% assign sorted-posts = site.posts | where: "tags","psy-продажи" %}
-        {% for post in sorted-posts limit: 35 %}
-       <li class="mb-2"><a href="{{ post.url }}"> {{ post.name }} </a></li>
-        {% endfor %}</ul>
-</div>
+
 
 
       <h3 class="mt-6">psy-общее</h3>
