@@ -1,15 +1,10 @@
-var version = '20200628091544::';
+var version = '20200630112125::';
 
 
 var urlsToCache = [
   '/',
-  '/uzkaya-specializaciya/',
   '/poleznye-ssylki/',
   '/author/',
-  '/style/likely.css',
-  '/style/likely.js',
-  '/tabu-v-reklame/',
-  '/sfery-specializacii-psixologa/',
   '/style/style.css'
  ];
 
@@ -26,10 +21,6 @@ self.addEventListener('install', function(evt) {
       })
   );
 });
-
-
-
-
 
 
 self.addEventListener('activate', (event) => {
@@ -69,3 +60,5 @@ self.addEventListener('fetch', function(event) {
     }
   }));
 });
+
+
