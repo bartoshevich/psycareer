@@ -18,7 +18,8 @@ let urlsToCache = [
   '/sfery-specializacii-psixologa/',
   '/sovet-nachinayushhim-psixologam-po-reklame-uslug/',
   '/rekomendacii-po-napolneniyu-sajta-dlya-psixologa/',
-  '/sait-psihologa-tipichnie-oshibki/'
+  '/sait-psihologa-tipichnie-oshibki/',
+  '/images/218.png'
  ];
 
 
