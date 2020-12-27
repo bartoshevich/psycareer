@@ -12,6 +12,7 @@ let urlsToCache = [
   '/author/',
   '/poleznye-ssylki/',
   '/style/style.css',
+  '/offline/',
   '/uzkaya-specializaciya/',
   '/tabu-v-reklame/',
   '/sfery-specializacii-psixologa/',
