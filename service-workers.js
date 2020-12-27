@@ -25,8 +25,8 @@ let urlsToCache = [
 
 let CACHE_NAME = 'version + psycareer';
 
-self.addEventListener('install', function(evt) {
-  evt.waitUntil(
+self.addEventListener('install', function(event) {
+  event.waitUntil(
     caches.open(CACHE_NAME)
       .then(function(cache) {
         console.log('Opened cache');
