@@ -9,7 +9,6 @@ let version = '{{site.time | date: '%Y%m%d%H%M%S'}}::';
 
 let urlsToCache = [
   '/',
-  '/me/',
   '/author/',
   '/poleznye-ssylki/',
   '/style/style.css',
