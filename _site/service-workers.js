@@ -1,4 +1,4 @@
-var version = '20200806103821::';
+var version = '20201227092408::';
 
 
 var urlsToCache = [
