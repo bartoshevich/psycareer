@@ -27,7 +27,9 @@
 
   });
 
+</script>
 
+<script> 
 
   if ('serviceWorker' in navigator) {
     navigator.serviceWorker.register('/service-workers.js', { scope: '/' }).then(function(reg) {
@@ -36,10 +38,6 @@
       console.log('Registration failed with ' + error);
     });
   };
-  
-
-
-
  </script>
 
   <script> 
