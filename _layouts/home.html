@@ -53,13 +53,13 @@ layout: compress
 <h2 id="blog">Избранное</h2>
   <div class="multicolumn">
     <ul class="mt-0">
-<li class="mb-2"><a href="/uzkaya-specializaciya/"> Как узкая специализация помогает психологу </a></li>
-<li class="mb-2"><a href="/tabu-v-reklame/"> Табу в рекламе психологических услуг </a></li>
-<li class="mb-2"><a href="/rekomendacii-po-napolneniyu-sajta-dlya-psixologa/"> Рекомендации психологу по наполнению сайта </a></li>
-<li class="mb-2"><a href="/sovet-nachinayushhim-psixologam-po-reklame-uslug/"> Принципы создания рекламы </a></li>
-<li class="mb-2"><a href="sfery-specializacii-psixologa/"> Сферы специализации психолога </a></li>
-<li class="mb-2"><a href="/kak-uvelichit-stoimost-konsultacii/"> Как увеличить стоимость консультации </a></li>
-<li class="mb-2"><a href="/gde-mogut-rabotat-psixologi/"> Где работают психологи </a></li>
+<li class="mb-2 break-avoid"><a href="/uzkaya-specializaciya/"> Как узкая специализация помогает психологу </a></li>
+<li class="mb-2 break-avoid"><a href="/tabu-v-reklame/"> Табу в рекламе психологических услуг </a></li>
+<li class="mb-2 break-avoid"><a href="/rekomendacii-po-napolneniyu-sajta-dlya-psixologa/"> Рекомендации психологу по наполнению сайта </a></li>
+<li class="mb-2 break-avoid"><a href="/sovet-nachinayushhim-psixologam-po-reklame-uslug/"> Принципы создания рекламы </a></li>
+<li class="mb-2 break-avoid"><a href="sfery-specializacii-psixologa/"> Сферы специализации психолога </a></li>
+<li class="mb-2 break-avoid"><a href="/kak-uvelichit-stoimost-konsultacii/"> Как увеличить стоимость консультации </a></li>
+<li class="mb-2 break-avoid"><a href="/gde-mogut-rabotat-psixologi/"> Где работают психологи </a></li>
 
 </ul>
 
@@ -71,7 +71,7 @@ layout: compress
   <div class="multicolumn">
   <ul class="mt-0">     {% assign sorted-posts = site.posts | where: "tags","psy-позиционирование" %}
     {% for post in sorted-posts limit: 305 %}
-   <li class="mb-2"><a href="{{ post.url }}"> {{ post.name }} </a></li>
+   <li class="mb-2 break-avoid"><a href="{{ post.url }}"> {{ post.name }} </a></li>
     {% endfor %}
 </ul>
   </div>
@@ -80,7 +80,7 @@ layout: compress
 <div class="multicolumn">
   <ul class="mt-0">     {% assign sorted-posts = site.posts | where: "tags","psy-продажи" %}
     {% for post in sorted-posts limit: 35 %}
-   <li class="mb-2"><a href="{{ post.url }}"> {{ post.name }} </a></li>
+   <li class="mb-2 break-avoid"><a href="{{ post.url }}"> {{ post.name }} </a></li>
     {% endfor %}</ul>
 </div>
 
@@ -89,7 +89,7 @@ layout: compress
   <div class="multicolumn">
     <ul class="mt-0">   {% assign sorted-posts = site.posts | where: "tags","psy-идеи" %}
     {% for post in sorted-posts limit: 35 %}
-   <li class="mb-2"><a href="{{ post.url }}"> {{ post.name }} </a></li>
+   <li class="mb-2 break-avoid"><a href="{{ post.url }}"> {{ post.name }} </a></li>
     {% endfor %}
 </ul>
   </div>
@@ -98,7 +98,7 @@ layout: compress
   <div class="multicolumn">
   <ul class="mt-0">      {% assign sorted-posts = site.posts | where: "tags","psy-деньги" %}
     {% for post in sorted-posts limit: 35 %}
-  <li class="mb-2"><a href="{{ post.url }}"> {{ post.name }} </a></li>
+  <li class="mb-2 break-avoid"><a href="{{ post.url }}"> {{ post.name }} </a></li>
     {% endfor %}
 </ul>
   </div>
@@ -108,7 +108,7 @@ layout: compress
 <div class="multicolumn">
   <ul class="mt-0">    {% assign sorted-posts = site.posts | where: "tags","psy-образование" %}
   {% for post in sorted-posts limit: 35 %}
-  <li class="mb-2"><a href="{{ post.url }}"> {{ post.name }} </a></li>
+  <li class="mb-2 break-avoid"><a href="{{ post.url }}"> {{ post.name }} </a></li>
   {% endfor %}
 </ul>
 </div>
@@ -118,7 +118,7 @@ layout: compress
 <div class="multicolumn">
 <ul class="mt-0">  {% assign sorted-posts = site.posts | where: "tags","psy-интернет" %}
   {% for post in sorted-posts limit: 35 %}
-    <li class="mb-2"><a href="{{ post.url }}"> {{ post.name }} </a></li>
+    <li class="mb-2 break-avoid"><a href="{{ post.url }}"> {{ post.name }} </a></li>
   {% endfor %}
 </ul>
 </div>
@@ -128,7 +128,7 @@ layout: compress
 <div class="multicolumn">
 <ul class="mt-0">  {% assign sorted-posts = site.posts | where: "tags","psy-реклама" %}
   {% for post in sorted-posts limit: 35 %}
-<li class="mb-2"><a href="{{ post.url }}"> {{ post.name }} </a></li>
+<li class="mb-2 break-avoid"><a href="{{ post.url }}"> {{ post.name }} </a></li>
   {% endfor %}
   </ul>
 </div>
@@ -141,7 +141,7 @@ layout: compress
 <div class="multicolumn">
   <ul class="mt-0">   {% assign sorted-posts = site.posts | where: "tags","psy-общее" %}
   {% for post in sorted-posts limit: 35 %}
- <li class="mb-2"><a href="{{ post.url }}"> {{ post.name }} </a></li>
+ <li class="mb-2 break-avoid"><a href="{{ post.url }}"> {{ post.name }} </a></li>
   {% endfor %}</ul>
 </div>
 
