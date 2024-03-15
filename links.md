@@ -38,5 +38,5 @@ permalink: /poleznye-ssylki/
 <li class="mb-2">	<a href="http://psypress.ru/" target="_blank" rel="noopener nofollow">Агентство психологических новостей </a></li>
 <li class="mb-2">	<a href="http://hpsy.ru/" target="_blank" rel="noopener nofollow">Сайт «экзистенциальная и&nbsp;гуманистическая психология»</a></li>
 <li class="mb-2">	<a href="https://bartoshevich.by/blog/">Блог о&nbsp;маркетинге</a></li>
-<li class="mb-2">	<a href="https://www.vitaline.by/" target="_blank" rel="noopener">Сайт детского психолога</a></li>
+<li class="mb-2">	<a href="https://www.vitaline.by/" target="_blank" rel="noopener">Сайт кризисного психолога</a></li>
 </ul>
